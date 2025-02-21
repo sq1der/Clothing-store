@@ -122,13 +122,20 @@ app.post("/login", async (req, res) => {
 
 // 📌 Получение товаров
 app.get("/products", async (req, res) => {
+    const category = req.query.category;  // Получаем параметр категории из запроса
     try {
-      const products = await Product.find();
-      res.json(products);
+        let products;
+        if (category && category !== 'all') {
+            products = await Product.find({ category });
+        } else {
+            products = await Product.find();
+        }
+        res.json(products);
     } catch (err) {
-      res.status(500).json({ error: "Ошибка при получении товаров" });
+        res.status(500).json({ error: "Ошибка при получении товаров" });
     }
-  });
+});
+
 
 app.post("/products", verifyToken, checkAdmin,  async (req, res) => {
   const { category, title, description, price, link, images } = req.body;
@@ -225,6 +232,18 @@ app.delete("/cart", verifyToken, async (req, res) => {
     } catch (error) {
         console.error("Error clearing cart:", error);
         res.status(500).json({ error: "Failed to clear cart" });
+    }
+});
+
+app.get("/profile", verifyToken, async (req, res) => {
+    try {
+        const user = await User.findById(req.user.id).select("-password");
+        if (!user) return res.status(404).json({ error: "Пользователь не найден" });
+
+        res.json(user);
+    } catch (error) {
+        console.error("Ошибка получения профиля:", error);
+        res.status(500).json({ error: "Ошибка сервера" });
     }
 });
 
