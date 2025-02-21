@@ -1,0 +1,978 @@
+{
+    "Suits": [
+        {
+            "category": "Suits",
+            "title": "Двубортный костюм в гусиную лапку",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/7c467bb7-d43b-46c8-9ed1-09a939c8d6ef",
+            "images": [
+                "https://shoqansuits.com/static/060ea038-25b1-4dc7-ac62-08e481a67c4e?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Серый двубортный костюм с контрастными пуговицами",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/5b94cc7b-7e16-4463-9ba0-7f1134231d8b",
+            "images": [
+                "https://shoqansuits.com/static/9df47c7d-ee41-4e3c-b608-a14c0c2fb6db?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в клетку серого цвета",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/9fc5ca95-2892-4c90-90b0-6deb2a4bbb59",
+            "images": [
+                "https://shoqansuits.com/static/c10c9509-a0f3-40fd-a17e-42b68dad0cac?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Двубортный черный костюм из шерсти",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/dd860a0c-49f6-448b-9f28-1c250c4d0e20",
+            "images": [
+                "https://shoqansuits.com/static/e5b6a258-775d-4e81-beaf-dd8c313640ac?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм из шерсти",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/9478725c-38cb-488b-bb60-7d94705cc82d",
+            "images": [
+                "https://shoqansuits.com/static/b6731d85-d1eb-469c-be2d-77e4200148e9?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Синий двубортный костюм в полоску",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/1ef1897f-9784-42d5-82d2-dd134e44fd61",
+            "images": [
+                "https://shoqansuits.com/static/19e861af-ca49-431a-b08f-28b8441a4b30?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Бежевый однобортный костюм",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/0f4716b3-dfe0-487e-bfa5-4feed849e292",
+            "images": [
+                "https://shoqansuits.com/static/09c17d80-2d89-4d74-bcf5-6d3169ed7458?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в темно-коричневом оттенке",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/83f98b33-42cb-473d-a655-8760951ff5ea",
+            "images": [
+                "https://shoqansuits.com/static/6c80a3be-7dde-40a4-8da9-63d08e3dde64?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в коричневом цвете",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/4a66af49-ff5b-491c-af72-2ab6958287e8",
+            "images": [
+                "https://shoqansuits.com/static/dccf4ff7-015f-4913-ad86-1f76d724ab3e?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Двубортный костюм графитового цвета в клетку",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/2e9c77fc-a57e-4546-b2dd-1cd0ec22dc30",
+            "images": [
+                "https://shoqansuits.com/static/6c2848e8-00d2-4cf7-8047-09cbfbf93a81?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в темно-синем цвете",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/31d24db0-5285-4ad9-8cd5-2d1c04746a32",
+            "images": [
+                "https://shoqansuits.com/static/d5cfebee-c573-4785-908d-70c31a235313?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Серый однобортный костюм в полоску",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/0ee24df9-eaed-42c2-a49d-df88a03236b0",
+            "images": [
+                "https://shoqansuits.com/static/433600d9-28be-441e-af64-68167c0832b1?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Костюм графитового цвета с ярким подкладом",
+            "description": "шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/5fb9c9cf-0c24-481f-99ae-c2841617b487",
+            "images": [
+                "https://shoqansuits.com/static/32aea0f6-e2ed-4a34-b0be-6a9b78abf582?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в клетку",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/54b4aef1-b644-447c-9e75-ea4702bd6ada",
+            "images": [
+                "https://shoqansuits.com/static/bd3804ea-1c13-4df3-a282-f760aa25814f?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Двубортный костюм в незаметную полоску",
+            "description": "шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/9c8770c6-647e-45bd-ba86-c27ac3a242b4",
+            "images": [
+                "https://shoqansuits.com/static/48ac70fe-4755-402f-ae8d-e0499aebec48?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в сером цвете",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/43bfd9e6-33f9-4334-86f7-2c457867a018",
+            "images": [
+                "https://shoqansuits.com/static/9774b5a9-058a-4483-ba93-7855a024334d?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный графитовый костюм в полоску",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/bdd7a002-4c4f-4842-88e3-275877da86bf",
+            "images": [
+                "https://shoqansuits.com/static/ceb44724-9018-426e-a654-4f351b1d2686?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Однобортный костюм в белую клетку",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/a00dd519-930a-4ee5-91c6-33fb0a0eefb4",
+            "images": [
+                "https://shoqansuits.com/static/57268ecb-c4a5-497d-9f7f-860c9a20ab4e?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Тёмно-синий однобортный костюм в полоску",
+            "description": "Шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/e4f40ed2-4bb1-4ee6-bb30-90cd61962903",
+            "images": [
+                "https://shoqansuits.com/static/d0ae05fa-5c37-45da-97ba-7334c6623ad6?key=lazy"
+            ]
+        },
+        {
+            "category": "Suits",
+            "title": "Двубортный костюм серого оттенка в полоску",
+            "description": "шерсть",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/9898f179-ccfc-40d9-beef-f1691a51f4c3",
+            "images": [
+                "https://shoqansuits.com/static/17493f0a-5a74-410b-a789-8e3d8d213b80?key=lazy"
+            ]
+        }
+    ],
+    "Jackets": [
+        {
+            "category": "Jackets",
+            "title": "Пиджак с накладными карманами",
+            "description": "тенсель, район",
+            "price": "99 000KZT",
+            "link": "https://shoqansuits.com/men/product/799d0ab4-514a-417e-8b05-24559763fb2d",
+            "images": [
+                "https://shoqansuits.com/static/ceebb09f-b087-44e6-a73e-8af11d3b5fca?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Пиджак с накладными карманами",
+            "description": "тенсель, район",
+            "price": "99 000KZT",
+            "link": "https://shoqansuits.com/men/product/8a0b7f3a-7a39-49fd-be0a-70c2b314e153",
+            "images": [
+                "https://shoqansuits.com/static/4fd95033-5595-4101-a80e-1f8bc84c48b3?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Пиджак в клетку",
+            "description": "шерсть",
+            "price": "169 000KZT",
+            "link": "https://shoqansuits.com/men/product/20f72ccf-8868-4428-980e-9ab3e05aa2db",
+            "images": [
+                "https://shoqansuits.com/static/59ad4a79-7382-4a77-873e-3df3f0e10e3d?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Пиджак в приглушенно-синем цвете",
+            "description": "Тэнсель, рэйон, шерсть",
+            "price": "90 000KZT",
+            "link": "https://shoqansuits.com/men/product/1b0b2d0a-c921-4410-a0bf-ad3fed93eba0",
+            "images": [
+                "https://shoqansuits.com/static/ea88baeb-73c1-42db-9443-5bfe8d254856?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Однобортный костюм в клетку серого цвета",
+            "description": "wool",
+            "price": "280 000KZT",
+            "link": "https://shoqansuits.com/men/product/3e5f3a5d-6351-4457-899a-c5d549356601",
+            "images": [
+                "https://shoqansuits.com/static/b4fe6411-3369-4a0e-8e94-2ff758373205?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Пиджак в клетку коричневого оттенка",
+            "description": "Тенсель, район",
+            "price": "99 000KZT",
+            "link": "https://shoqansuits.com/men/product/e8378d91-e6ba-41ad-9e61-298826aea35d",
+            "images": [
+                "https://shoqansuits.com/static/b9f40b30-6595-4903-b782-8f3a30c080de?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Двубортный костюм светло серого оттенка",
+            "description": "Тенсель, район",
+            "price": "140 000KZT",
+            "link": "https://shoqansuits.com/men/product/e6261eef-1e32-4243-93ca-a0fe97492b32",
+            "images": [
+                "https://shoqansuits.com/static/7152b65c-1163-4e0f-83f6-0a1aec8818b1?key=lazy"
+            ]
+        },
+        {
+            "category": "Jackets",
+            "title": "Серый пиджак свободного кроя",
+            "description": "Тэнсель, рэйон, шерсть",
+            "price": "90 000KZT",
+            "link": "https://shoqansuits.com/men/product/1f8f22fa-0c2a-4c08-bcf0-49f75679c1bd",
+            "images": [
+                "https://shoqansuits.com/static/27a59e87-762a-40c6-8e1e-ce6925aff617?key=lazy"
+            ]
+        }
+    ],
+    "Shirts and shirts": [
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка с белым воротником и манжетами",
+            "description": "хлопок",
+            "price": "27 500KZT",
+            "link": "https://shoqansuits.com/men/product/1401b074-46ad-41f6-b18e-51eeffbeca4d",
+            "images": [
+                "https://shoqansuits.com/static/f0e46d51-5871-4f1c-8263-66d2d58e79bd?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Белая сорочка из хлопка с классическим воротом",
+            "description": "хлопок",
+            "price": "27 500KZT",
+            "link": "https://shoqansuits.com/men/product/89d477a5-b23d-4524-ba19-bd652dc6e95b",
+            "images": [
+                "https://shoqansuits.com/static/f2a0ed1c-ea3b-41b6-ad06-8dd6442a2e7a?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Голубая сорочка из хлопка с классическим воротом",
+            "description": "хлопок",
+            "price": "27 500KZT",
+            "link": "https://shoqansuits.com/men/product/ded318d1-4c57-4b5e-84e7-18d1189e29e2",
+            "images": [
+                "https://shoqansuits.com/static/73876da0-9087-4010-8b8d-960343e157f7?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Рубашка в широкую полоску",
+            "description": "Хлопок",
+            "price": "36 900KZT",
+            "link": "https://shoqansuits.com/men/product/a25e7ead-eeb7-4ce5-9381-86f2c1bf931e",
+            "images": [
+                "https://shoqansuits.com/static/a5e91374-ba2c-45b4-a699-494a1418ed2a?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Джинсовая рубашка на пуговицах",
+            "description": "Хлопок",
+            "price": "36 900KZT",
+            "link": "https://shoqansuits.com/men/product/1ab5baff-a32c-4c2a-8a66-cfe518c80e37",
+            "images": [
+                "https://shoqansuits.com/static/dc581b0e-650b-47ef-845e-56cd6d629607?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Льняная рубашка коричневого оттенка",
+            "description": "Лен",
+            "price": "36 900KZT",
+            "link": "https://shoqansuits.com/men/product/a8056522-14a9-4dd6-ac63-242241f4c851",
+            "images": [
+                "https://shoqansuits.com/static/a28dbc8a-b939-4cf0-88e6-99cffddf60b4?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Мужская классическая сорочка",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/9630dd27-a0c0-415a-a668-b66b60ac7c4f",
+            "images": [
+                "https://shoqansuits.com/static/37281cc0-a4c9-4c61-9f33-e12cc9a6fcc3?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Классическая рубашка черного цвета",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/06970078-c1e2-4803-8ca2-c06097b14bbb",
+            "images": [
+                "https://shoqansuits.com/static/4a52714c-ab9e-4213-9bf9-a6069466ccce?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка белого цвета в полоску",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/6ec4f47e-1856-40e1-9813-4edd15c82ffa",
+            "images": [
+                "https://shoqansuits.com/static/2efed82e-56d9-4508-89e4-56fb5d550597?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Белая сорочка в мелкую полоску",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/04b8581b-7085-4758-8068-50bcd6013220",
+            "images": [
+                "https://shoqansuits.com/static/b0b7a7b9-51f0-47ed-a818-cd6f548f4091?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка в мелкую розовую полоску",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/ee05f4e0-ae7b-401f-8a01-2bc23e574736",
+            "images": [
+                "https://shoqansuits.com/static/a11c8124-e1cf-4b12-8fd4-4d8fe5e7c2dd?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка в мелкую голубую полоску",
+            "description": "Хлопок, полиэстер",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/5b83a5f8-5a17-4d68-b926-0efe0f8bd673",
+            "images": [
+                "https://shoqansuits.com/static/f0baa966-3959-4c98-8424-26f817654ba1?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка в синюю полоску",
+            "description": "Хлопок",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/3c4a3641-d243-4462-9c40-cfc71e168ad8",
+            "images": [
+                "https://shoqansuits.com/static/839b65c5-e921-4d8a-9491-54982d45addd?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка небесного оттенка",
+            "description": "Хлопок",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/b2d406c8-0e44-4570-8f92-1d6ff5ea3a83",
+            "images": [
+                "https://shoqansuits.com/static/401a1e21-d6ac-4f95-a51c-20b5d5ce811d?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Белая классическая сорочка",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/24925e18-daab-48ed-86ce-69912b10638e",
+            "images": [
+                "https://shoqansuits.com/static/ca70c87b-c500-4eb3-83db-74cd9949ad13?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Голубая сорочка из хлопка с французским воротом",
+            "description": "хлопок",
+            "price": "27 500KZT",
+            "link": "https://shoqansuits.com/men/product/f7e3bb65-0d2a-40b3-8404-40a37ecb3e6e",
+            "images": [
+                "https://shoqansuits.com/static/0d82907a-d066-41ea-a57d-16bf553634e9?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Белая сорочка из хлопка с французским воротом",
+            "description": "хлопок",
+            "price": "27 500KZT",
+            "link": "https://shoqansuits.com/men/product/1555a055-44da-4baf-9337-5b8e5e8e133a",
+            "images": [
+                "https://shoqansuits.com/static/fb2aa96e-9f83-493f-8fcc-336cd3ea8502?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Джинсовая рубашка с контрастными пуговицами",
+            "description": "Хлопок",
+            "price": "36 900KZT",
+            "link": "https://shoqansuits.com/men/product/70e64a57-9e0b-48e2-b6bc-de9b29d93175",
+            "images": [
+                "https://shoqansuits.com/static/ff573e8f-b43a-47be-839b-72387f46ad49?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Сорочка в темно-синюю полоску",
+            "description": "Хлопок, вискоза",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/ef4b48f3-262c-4537-bc86-a1689dab814f",
+            "images": [
+                "https://shoqansuits.com/static/db44fc34-739f-4ca3-bd15-7266ff6acf75?key=lazy"
+            ]
+        },
+        {
+            "category": "Shirts and shirts",
+            "title": "Белая сорочка в полоску",
+            "description": "Хлопок",
+            "price": "22 990KZT",
+            "link": "https://shoqansuits.com/men/product/8d2ed836-3487-4b1e-888a-8f54d7ad32b8",
+            "images": [
+                "https://shoqansuits.com/static/23709eae-ecd5-4c9f-b9af-d0c2ed24763c?key=lazy"
+            ]
+        }
+    ],
+    "Trousers": [
+        {
+            "category": "Trousers",
+            "title": "Брюки с защипами",
+            "description": "Хлопок",
+            "price": "41 500KZT",
+            "link": "https://shoqansuits.com/men/product/4ff4e6d6-29cf-43f8-9ca7-e0faf7d6f6da",
+            "images": [
+                "https://shoqansuits.com/static/d3823c8e-5a47-4bdf-b5dd-edc003daa49d?key=lazy"
+            ]
+        },
+        {
+            "category": "Trousers",
+            "title": "Белые брюки из хлопка",
+            "description": "Хлопок",
+            "price": "41 500KZT",
+            "link": "https://shoqansuits.com/men/product/fdebb332-68c0-4893-a560-3f70c23143f8",
+            "images": [
+                "https://shoqansuits.com/static/08a8b279-ec8b-4f6b-9683-06ffee229064?key=lazy"
+            ]
+        }
+    ],
+    "Polo": [
+        {
+            "category": "Polo",
+            "title": "Серое поло с длинными рукавами",
+            "description": "Хлопок",
+            "price": "28 900KZT",
+            "link": "https://shoqansuits.com/men/product/c8fa8e27-e920-434f-8486-b2c9cacef0e4",
+            "images": [
+                "https://shoqansuits.com/static/e637b663-b092-44fc-88b2-bb6787b4e9f1?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Черное поло с длинными рукавами",
+            "description": "Хлопок",
+            "price": "28 900KZT",
+            "link": "https://shoqansuits.com/men/product/33ad6b25-0574-4f8a-a88f-ef0ea7dc5d09",
+            "images": [
+                "https://shoqansuits.com/static/ace22780-d9ae-4927-9428-ac0f8532b98e?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Бежевое поло с длинными рукавами",
+            "description": "хлопок",
+            "price": "28 900KZT",
+            "link": "https://shoqansuits.com/men/product/40708631-d826-4972-9ba8-ec0af0f73ffd",
+            "images": [
+                "https://shoqansuits.com/static/619bf733-8809-42e9-84cd-53515cab724b?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Оверсайз футболка черного оттенка",
+            "description": "Хлопок",
+            "price": "19 900KZT",
+            "link": "https://shoqansuits.com/men/product/a89a5c68-38ea-40e1-be58-2614307d77c1",
+            "images": [
+                "https://shoqansuits.com/static/ce6ad57e-3c7b-4198-a28d-efb6f7150f35?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Серая футболка из хлопка",
+            "description": "Хлопок",
+            "price": "19 900KZT",
+            "link": "https://shoqansuits.com/men/product/4a268895-acf2-433c-be32-6c6bf55ea99d",
+            "images": [
+                "https://shoqansuits.com/static/663b8ba5-4321-4e8e-84ab-2b21890b6928?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Оверсайз футболка белого оттенка",
+            "description": "Хлопок",
+            "price": "19 900KZT",
+            "link": "https://shoqansuits.com/men/product/83452964-10b5-4ca7-8c3f-587b1981c166",
+            "images": [
+                "https://shoqansuits.com/static/50b83710-fc0f-4ffb-b249-52c0173f7a14?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Бежевая футболка",
+            "description": "100% Хлопок",
+            "price": "13 900KZT",
+            "link": "https://shoqansuits.com/men/product/63f6f366-39a7-4c1a-9d0c-4437280e1b34",
+            "images": [
+                "https://shoqansuits.com/static/cfe78776-096e-4c1c-a8dc-1ebb34c46cd1?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Синяя футболка для повседневных образов",
+            "description": "Хлопок",
+            "price": "13 900KZT",
+            "link": "https://shoqansuits.com/men/product/4b4fda99-cd15-44cc-8a76-7fe086cdd8bb",
+            "images": [
+                "https://shoqansuits.com/static/2e3a7e98-ac48-42dd-b847-d629dede306a?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Белое поло на молнии",
+            "description": "Вискоза",
+            "price": "17 990KZT",
+            "link": "https://shoqansuits.com/men/product/6813ecf6-22d4-4180-b025-bf9b3bdbbbeb",
+            "images": [
+                "https://shoqansuits.com/static/da870264-624c-4969-98a0-36ccc2c885ec?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Футболка белого цвета",
+            "description": "Хлопок, вискоза",
+            "price": "13 900KZT",
+            "link": "https://shoqansuits.com/men/product/6f8fcbc2-72f9-4d2e-bae1-dec3264d81ef",
+            "images": [
+                "https://shoqansuits.com/static/fbb2262b-9a00-45c0-b004-c2fb6700144a?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Футболка черного цвета",
+            "description": "Хлопок, вискоза",
+            "price": "13 900KZT",
+            "link": "https://shoqansuits.com/men/product/b94cc80a-ad83-4ee5-a00b-af5cffc71c82",
+            "images": [
+                "https://shoqansuits.com/static/88148959-685d-427c-89ec-bd2738e47d04?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Футболка с круглым вырезом черного оттенка",
+            "description": "Хлопок",
+            "price": "19 900KZT",
+            "link": "https://shoqansuits.com/men/product/6c2602c1-ff3c-43dc-a0ff-ecf8e50b4af8",
+            "images": [
+                "https://shoqansuits.com/static/392a8afd-8677-477e-b641-0f594e492d20?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Белая футболка из хлопка",
+            "description": "Хлопок",
+            "price": "19 900KZT",
+            "link": "https://shoqansuits.com/men/product/eb3381f7-76a1-4c92-b8be-c3e7e6403b4e",
+            "images": [
+                "https://shoqansuits.com/static/972b496a-61bc-413a-925f-f2d5ae507a6f?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Поло в черном цвете",
+            "description": "Хлопок",
+            "price": "27 900KZT",
+            "link": "https://shoqansuits.com/men/product/8e211c02-7d6e-4e05-b256-acb2e965add0",
+            "images": [
+                "https://shoqansuits.com/static/ab4f639f-5e77-49cd-82c6-9b17119d7ddd?key=lazy"
+            ]
+        },
+        {
+            "category": "Polo",
+            "title": "Поло в черном оттенке",
+            "description": "100% мерсеризированный хлопок",
+            "price": "17 990KZT",
+            "link": "https://shoqansuits.com/men/product/460d61d1-72be-4e81-af9b-76d1dc632c8d",
+            "images": [
+                "https://shoqansuits.com/static/f863947b-aab8-4c0c-a026-a439ea1cf912?key=lazy"
+            ]
+        }
+    ],
+    "Knitwear": [
+        {
+            "category": "Knitwear",
+            "title": "Кофта черного оттенка с принтом твист",
+            "description": "район, хлопок",
+            "price": "48 000KZT",
+            "link": "https://shoqansuits.com/men/product/cbdf96bb-8810-4f46-8e7e-356b574f3007",
+            "images": [
+                "https://shoqansuits.com/static/8dfe2914-9065-415c-a473-ab0f5bc32f33?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Фактурная кофта на полузамке",
+            "description": "район, хлопок",
+            "price": "48 000KZT",
+            "link": "https://shoqansuits.com/men/product/13701414-1888-46a2-aa5c-b9c71ce85dcd",
+            "images": [
+                "https://shoqansuits.com/static/3187d5b1-0c77-4ccc-9b4d-9358f6375fbd?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Фактурная кофта коричневого оттенка",
+            "description": "район, хлопок",
+            "price": "48 000KZT",
+            "link": "https://shoqansuits.com/men/product/c4224543-6e60-47ca-bb06-e743aa284332",
+            "images": [
+                "https://shoqansuits.com/static/faab94fd-0f9d-4216-b71d-348b829521d7?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Кофта бежевого оттенка с принтом твист",
+            "description": "район, хлопок",
+            "price": "48 000KZT",
+            "link": "https://shoqansuits.com/men/product/9e457de8-b882-41ed-b6cf-6ace0a9b1761",
+            "images": [
+                "https://shoqansuits.com/static/bb530674-e399-4ad1-bb5f-2268ef1891aa?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Фактурная кофта светло-серого оттенка",
+            "description": "район, хлопок",
+            "price": "48 000KZT",
+            "link": "https://shoqansuits.com/men/product/e504dc07-0f73-4a89-83ed-eed244d917cd",
+            "images": [
+                "https://shoqansuits.com/static/5ef911b2-cb1d-4750-a38a-9e98ce0b2c5c?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Коричневый кардиган на пуговицах",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/7b2777c4-4487-45ec-9b02-448ce301150f",
+            "images": [
+                "https://shoqansuits.com/static/e00e7481-a5fa-4ff3-9d49-a01e38261c19?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Кардиган на пуговицах бежевого оттенка",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/63a93e64-c633-4678-9a38-88f64139fe18",
+            "images": [
+                "https://shoqansuits.com/static/0a611fa2-6ff2-4645-9a33-70e56bd39005?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Черный кардиган на пуговицах",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/928bde15-e212-45c5-91b3-0a5808052c28",
+            "images": [
+                "https://shoqansuits.com/static/54b6d145-e322-4473-9ee4-8a7c31304d18?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Кардиган с V-образным вырезом",
+            "description": "район, нейлон, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/cde22eee-cfd4-498b-bf79-7eb5eb62e37a",
+            "images": [
+                "https://shoqansuits.com/static/80808ff6-ae68-4b0a-b5b6-8fd606af022a?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Свитер с V-образным вырезом",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/a7a75e0f-ce6f-480a-bc18-3636794f5cea",
+            "images": [
+                "https://shoqansuits.com/static/fe2d83df-ab56-407e-87da-e7b1b462bb20?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Кофта с V-образным вырезом",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/239006fb-36e7-444f-95d7-486b4e32ea36",
+            "images": [
+                "https://shoqansuits.com/static/ca098a5e-2ba2-49b7-a66c-b7d1d19be471?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Бежевая кофта с V-образным вырезом и воротником",
+            "description": "район, хлопок",
+            "price": "41 000KZT",
+            "link": "https://shoqansuits.com/men/product/5a0faffb-2076-4d33-b1e1-d43ad50cd693",
+            "images": [
+                "https://shoqansuits.com/static/46e2cc90-3ddf-4dc7-aec6-469617e6f0d3?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Серый свитер на полузамке",
+            "description": "район, хлопок",
+            "price": "43 000KZT",
+            "link": "https://shoqansuits.com/men/product/af89fa72-a767-4c31-8f9f-30f3c2c30069",
+            "images": [
+                "https://shoqansuits.com/static/c2a1e510-a1cd-4cf6-ba8b-86a40859f76f?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Коричневый свитер на полузамке",
+            "description": "район, хлопок",
+            "price": "43 000KZT",
+            "link": "https://shoqansuits.com/men/product/c2e0134f-f452-4ce0-9a1f-693a5b5a3564",
+            "images": [
+                "https://shoqansuits.com/static/efa53d67-13ba-4bc7-9c77-cc12c32a8c7e?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Черный свитер на полузамке",
+            "description": "район, хлопок",
+            "price": "43 000KZT",
+            "link": "https://shoqansuits.com/men/product/c476bce9-1860-4209-b0aa-5aad4257364b",
+            "images": [
+                "https://shoqansuits.com/static/cc93f06c-9c49-44d8-9384-2d51d2f6bcd2?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Свитер с круглым воротом из хлопка",
+            "description": "хлопок",
+            "price": "26 900KZT",
+            "link": "https://shoqansuits.com/men/product/64dbfd09-1afb-48c0-a0ff-cd4eacf60aa7",
+            "images": [
+                "https://shoqansuits.com/static/74ffa2fc-c132-4a09-a797-f930206518be?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Вязанный свитер темно-серого оттенка",
+            "description": "район, хлопок",
+            "price": "29 000KZT",
+            "link": "https://shoqansuits.com/men/product/30a64d40-a34a-4b16-aca6-5a723c0b7808",
+            "images": [
+                "https://shoqansuits.com/static/5b200b6f-975b-4d8f-937b-0190fb48d4e9?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Вязанный свитер серого оттенка",
+            "description": "район, хлопок",
+            "price": "29 000KZT",
+            "link": "https://shoqansuits.com/men/product/2df5903b-34ba-4557-bb47-0425b663e5ca",
+            "images": [
+                "https://shoqansuits.com/static/9ac4c787-32ad-44e0-abe2-7eb809adf70d?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Серый свитер из хлопка",
+            "description": "хлопок",
+            "price": "26 900KZT",
+            "link": "https://shoqansuits.com/men/product/6dfbea2f-f4b6-4a1c-accf-51a27baf5cbc",
+            "images": [
+                "https://shoqansuits.com/static/3f9e00bf-a546-476f-bc0b-efc751df831b?key=lazy"
+            ]
+        },
+        {
+            "category": "Knitwear",
+            "title": "Синий вязаный свитер с круглым вырезом",
+            "description": "хлопок, район",
+            "price": "42 000KZT",
+            "link": "https://shoqansuits.com/men/product/16943b2e-9cdb-4377-9656-53a4aaf15fc1",
+            "images": [
+                "https://shoqansuits.com/static/68d0a821-aa14-4c6d-a059-4e1425155e33?key=lazy"
+            ]
+        }
+    ],
+    "Coats": [
+        {
+            "category": "Coats",
+            "title": "Черное короткое пальто",
+            "description": "60% шерсть 40% полиамид",
+            "price": "76 500KZT",
+            "link": "https://shoqansuits.com/men/product/9c120661-584c-44ad-867c-8d9e5d46e28e",
+            "images": [
+                "https://shoqansuits.com/static/cc5d2638-138a-41b3-96d9-e6404294bbe8?key=lazy"
+            ]
+        }
+    ],
+    "Turtlenecks": [
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка темно-коричневого оттенка",
+            "description": "хлопок",
+            "price": "24 500KZT",
+            "link": "https://shoqansuits.com/men/product/db0b7115-58a8-4146-b020-d95c308553aa",
+            "images": [
+                "https://shoqansuits.com/static/aee98e80-2d40-4bd5-a3c5-d710ca7862d8?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка с высоким горлом из хлопка",
+            "description": "хлопок",
+            "price": "24 500KZT",
+            "link": "https://shoqansuits.com/men/product/53141e5b-c32c-4888-9722-2aff6837bfa3",
+            "images": [
+                "https://shoqansuits.com/static/a261cf26-bb1c-42e3-a47b-fb320a67d707?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка насыщенно синего оттенка",
+            "description": "хлопок",
+            "price": "24 500KZT",
+            "link": "https://shoqansuits.com/men/product/f1d09f84-eb78-4ff5-880e-95d92440ad80",
+            "images": [
+                "https://shoqansuits.com/static/66e27db0-6fbe-400b-9779-447ca75c8b31?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Теплая водолазка синего цвета",
+            "description": "Вискоза 50%, полиэстер 30%, нейлон 20%",
+            "price": "24 900KZT",
+            "link": "https://shoqansuits.com/men/product/7da708e6-a78a-4da1-aea5-c674af820f1c",
+            "images": [
+                "https://shoqansuits.com/static/c5204b7d-c3f4-4f26-a5b1-583ebe84f86a?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Шерстяная водолазка черного цвета",
+            "description": "хлопок",
+            "price": "24 900KZT",
+            "link": "https://shoqansuits.com/men/product/5e6970ae-f515-4990-a687-10b2170a7191",
+            "images": [
+                "https://shoqansuits.com/static/c38c686c-bbba-4d0c-8dc1-1b19ddbd761a?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка пурпурного цвета",
+            "description": "Хлопок 50%, вискоза 50%",
+            "price": "17 900KZT",
+            "link": "https://shoqansuits.com/men/product/7cad9e55-6c6a-498b-b70a-d08cc4b21857",
+            "images": [
+                "https://shoqansuits.com/static/8134ce8b-3586-4779-bbb7-8fb3969b76f9?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка синего цвета",
+            "description": "Хлопок, вискоза",
+            "price": "17 900KZT",
+            "link": "https://shoqansuits.com/men/product/ca09b29c-16e9-4918-adcf-60e37ffc638c",
+            "images": [
+                "https://shoqansuits.com/static/fbb91087-f715-4e52-a181-bf8a3c570fc3?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Черная водолазка",
+            "description": "Хлопок",
+            "price": "24 500KZT",
+            "link": "https://shoqansuits.com/men/product/3e69ef9c-7b09-40ec-9b72-46a55d84fa1b",
+            "images": [
+                "https://shoqansuits.com/static/88e4ce51-739e-457e-86f2-b331447c6ec3?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Тонкая водолазка белого цвета",
+            "description": "Хлопок",
+            "price": "24 500KZT",
+            "link": "https://shoqansuits.com/men/product/75c5fed7-0284-4f69-90f1-a96d547c79a2",
+            "images": [
+                "https://shoqansuits.com/static/55645ae5-f038-4778-8058-572e032a8393?key=lazy"
+            ]
+        },
+        {
+            "category": "Turtlenecks",
+            "title": "Водолазка голубого цвета",
+            "description": "Хлопок, вискоза",
+            "price": "17 900KZT",
+            "link": "https://shoqansuits.com/men/product/0e235200-e65d-49cf-81f3-e77a404449a2",
+            "images": [
+                "https://shoqansuits.com/static/5a55310f-62f2-4702-8431-a997c27d9e06?key=lazy"
+            ]
+        }
+    ]
+}
