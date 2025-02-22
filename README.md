@@ -110,6 +110,14 @@ node server.js
 
 ---
 
+## Admin Access
+To access the admin panel, use the following credentials:
+
+- **Email:** admin@admin.com  
+- **Password:** 123123  
+
+---
+
 ## API Endpoints
 ### User Authentication
 | Method | Endpoint       | Description         |
