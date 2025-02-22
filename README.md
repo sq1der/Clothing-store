@@ -1,7 +1,7 @@
 # Clothing Store API
 
-### Zinetov Alikhan 
-### Asanov Daniyal
+### Aman Belgibay 
+### Zulkash Nurpeiis
 
 ## Overview
 This project is a **Clothing Store API** built with **Node.js, Express, and MongoDB**. It provides user authentication, product management, and a shopping cart system.
