@@ -117,3 +117,70 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 
+document.addEventListener("DOMContentLoaded", async () => {
+    const productsContainer = document.getElementById("products");
+    const categoryFilter = document.getElementById("category-filter");
+
+    let allProducts = [];
+
+    // Загружаем товары
+    async function loadProducts() {
+        try {
+            const res = await fetch("/products");
+            allProducts = await res.json();
+            displayProducts(allProducts);
+            loadCategories();
+        } catch (error) {
+            console.error("Ошибка загрузки товаров:", error);
+        }
+    }
+
+    // Отображение товаров на странице
+    function displayProducts(products) {
+        productsContainer.innerHTML = "";
+        if (products.length === 0) {
+            productsContainer.innerHTML = "<p>Товары не найдены</p>";
+            return;
+        }
+
+        products.forEach(product => {
+            const productCard = document.createElement("div");
+            productCard.classList.add("product-card");
+
+            productCard.innerHTML = `
+                <img src="${product.images[0]}" alt="${product.title}">
+                <h3>${product.title}</h3>
+                <p>${product.price}₸</p>
+                <button class="btn-primary" onclick="addToCart('${product._id}')">🛒 В корзину</button>
+            `;
+            productsContainer.appendChild(productCard);
+        });
+    }
+
+    // Загружаем категории и заполняем фильтр
+    function loadCategories() {
+        const categories = [...new Set(allProducts.map(p => p.category))]; // Получаем уникальные категории
+        categoryFilter.innerHTML = '<option value="all">Все категории</option>';
+        categories.forEach(category => {
+            const option = document.createElement("option");
+            option.value = category;
+            option.textContent = category;
+            categoryFilter.appendChild(option);
+        });
+    }
+
+    // Фильтрация товаров по категории
+    categoryFilter.addEventListener("change", () => {
+        const selectedCategory = categoryFilter.value;
+        if (selectedCategory === "all") {
+            displayProducts(allProducts);
+        } else {
+            const filteredProducts = allProducts.filter(product => product.category === selectedCategory);
+            displayProducts(filteredProducts);
+        }
+    });
+
+    loadProducts();
+});
+
+
